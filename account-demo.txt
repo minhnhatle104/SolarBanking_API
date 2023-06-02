@@ -1,0 +1,3 @@
+Employee: kolgo - 112233
+Admin: thanhdat - 123123
+Customer: ngoclam - 123123, bachho - 123123
